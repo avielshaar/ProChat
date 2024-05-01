@@ -1,0 +1,6 @@
+@ProChat.Api_HostAddress = http://localhost:5269
+
+GET {{ProChat.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

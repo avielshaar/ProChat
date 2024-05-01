@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProChat.Api", "ProChat.Api\ProChat.Api.csproj", "{139675D2-492E-4D7D-A4D8-E1C3E2990217}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProChat.Services", "ProChat.Services\ProChat.Services.csproj", "{A7E00963-59EE-47EC-A196-AA33DD6B0D41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProChat.Models", "ProChat.Models\ProChat.Models.csproj", "{884ABC6B-69C0-40D9-B19F-AD4C18B9414A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProChat.Data", "ProChat.Data\ProChat.Data.csproj", "{2CB92DEE-CE82-4EA2-AB8B-D6C3F0F10CD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{139675D2-492E-4D7D-A4D8-E1C3E2990217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{139675D2-492E-4D7D-A4D8-E1C3E2990217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{139675D2-492E-4D7D-A4D8-E1C3E2990217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{139675D2-492E-4D7D-A4D8-E1C3E2990217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7E00963-59EE-47EC-A196-AA33DD6B0D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E00963-59EE-47EC-A196-AA33DD6B0D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E00963-59EE-47EC-A196-AA33DD6B0D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E00963-59EE-47EC-A196-AA33DD6B0D41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{884ABC6B-69C0-40D9-B19F-AD4C18B9414A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{884ABC6B-69C0-40D9-B19F-AD4C18B9414A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{884ABC6B-69C0-40D9-B19F-AD4C18B9414A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{884ABC6B-69C0-40D9-B19F-AD4C18B9414A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CB92DEE-CE82-4EA2-AB8B-D6C3F0F10CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CB92DEE-CE82-4EA2-AB8B-D6C3F0F10CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CB92DEE-CE82-4EA2-AB8B-D6C3F0F10CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CB92DEE-CE82-4EA2-AB8B-D6C3F0F10CD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {533AFC98-D3B8-44EF-BD74-4C0E2CC3579A}
+	EndGlobalSection
+EndGlobal
